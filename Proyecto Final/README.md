@@ -1,1 +1,3 @@
-PROYECTO FINAL DE SISTEMAS EXPERTOS CON IA CHATBOT, URL DEL VIDEO DE LA PRESENTACION, INFORME TÉCNICO DEL PROYECTO FINAL Y PRESENTACIÓN DEL PROYECTO FINAL
+# Proyecto final
+
+Proyecto final de sistemas expertos implementando una IA chatbot, URL del video de la presentación, informe técnico del proyecto final y presentación en PDF.
